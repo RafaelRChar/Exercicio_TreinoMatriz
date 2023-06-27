@@ -1,5 +1,6 @@
 # Exercicio_TreinoMatriz
-> Vê o menor valor da soma das linhas e das linhas em si
+> Vê o menor valor da soma das linhas e das linhas em si;
+
 ** O exercício. **
 ```
  1. Crie um programa capaz de ler os dados de uma matriz quadrada de inteiros.
