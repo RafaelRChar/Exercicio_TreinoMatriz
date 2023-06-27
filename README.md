@@ -1,4 +1,4 @@
-# Exercicio_TreinoMatriz
+# Exercicio de Treino | Matriz:
 - Vê o menor valor da soma das linhas e das linhas em si;
 
 **O exercício.**
